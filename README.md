@@ -1,5 +1,5 @@
 # 🤖 AI-Powered Job Recommendation System using LangChain & Gemini
-Streamlit web app (click on the pen symbol at the top right corner): https://ai-job-recommendation-web-app-5cr2kzg2nwhgul4tqpcmzh.streamlit.app/
+Streamlit web app: https://ai-job-recommendation-web-app-5cr2kzg2nwhgul4tqpcmzh.streamlit.app/
 ## 📌 Project Description
 This project is a smart job recommendation web application built with **Python**, **Streamlit**, **LangChain**, and **Gemini API**.  
 It helps users discover relevant job or internship opportunities by matching their **skills, experience, and preferences** with job listings fetched from **Google Jobs via SerpAPI**.  
